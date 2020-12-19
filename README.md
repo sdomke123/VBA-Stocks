@@ -4,10 +4,6 @@
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - File that included all the stock data used.
 
-### Stock market analyst
-
-## Instructions
-
 * A script was made that loops through all the stocks for 2014, 2015, and 2016 (multiple worksheets) and outputs the following information.
 
   * The ticker symbol.
@@ -22,8 +18,14 @@
   
  ## Results
   
+  **2014
+  
   * ![2014](2014.png)
   
+  **2015
+  
   * ![2015](2015.png)
+  
+  **2016
   
   * ![2016](2016.png)
