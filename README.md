@@ -1,4 +1,4 @@
-# VBA-challenge
+## Overview
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - File that included all the stock data used.
 
